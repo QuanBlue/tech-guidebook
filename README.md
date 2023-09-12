@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="./assets/tech_logo.png" alt="icon" height="150"></img>
+  <img src="./assets/logo/tech-guidebook-logo.png" alt="icon" width="200"></img>
   <br>
   <b>Technology Guidebook</b>
 </h1>
 
-<p align="center">A collection of Guidebook for various DevOps, Networking and programming topics.</p>
+<p align="center">
+   Collection of Guidebook that instruct how to use technology
+</p>
 
 <!-- Badges -->
 <p align="center">
@@ -23,45 +25,37 @@
   <a href="https://github.com/QuanBlue/tech-guidebook/issues/">
     <img src="https://img.shields.io/github/issues/QuanBlue/tech-guidebook" alt="open issues" />
   </a>
-  <a href="https://github.com/QuanBlue/tech-guidebook/blob/master/LICENSE">
+  <a href="https://github.com/QuanBlue/tech-guidebook/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/QuanBlue/tech-guidebook.svg" alt="license" />
   </a>
 </p>
 
 <p align="center">
   <b>
-      <a href="#introduction">Introduction</a> •
-      <a href="https://github.com/QuanBlue/tech-guidebook/issues/">Report Bug</a> •
-      <a href="https://github.com/QuanBlue/tech-guidebook/issues/">Request Feature</a>
+    <a href="https://github.com/QuanBlue/tech-guidebook">Documentation</a> •
+    <a href="https://github.com/QuanBlue/tech-guidebook/issues/">Report Bug</a> •
+    <a href="https://github.com/QuanBlue/tech-guidebook/issues/">Request Feature</a>
   </b>
 </p>
-
 <br/>
-
 <details open>
 <summary><b>Table of Contents</b></summary>
 
--  [:star: Introduction](#star-introduction)
--  [:toolbox: Categories](#toolbox-categories)
--  [:busts_in_silhouette: Contributors](#busts_in_silhouette-contributors)
--  [:scroll: License](#scroll-license)
+- [Overview](#balloon-overview)
+- [Getting Started](#toolbox-getting-started)
+- [Contributors](#busts_in_silhouette-contributors)
+- [License](#scroll-license)
 </details>
 
-# :star: Introduction
+# :balloon: Overview
 
-Welcome to the Technology Cheat Sheets repository! This repository aims to provide a comprehensive collection of cheat sheets for various DevOps and programming topics. Whether you are a beginner or an experienced professional, these cheat sheets will serve as quick references and handy resources to help you navigate through different technologies, frameworks, and tools.
+The **Technology Guidebook Repository** is a comprehensive and invaluable resource designed to provide a centralized hub for all things tech-related. This repository serves as a one-stop destination for tech enthusiasts, professionals, and novices seeking guidance, knowledge, and insights into the ever-expanding world of technology.
 
-# :toolbox: Categories
+# :toolbox: Getting Started
 
--  [CI/CD](https://github.com/QuanBlue/tech-guidebook/tree/master/CI.CD)
--  [Cloud Platforms](https://github.com/QuanBlue/tech-guidebook/tree/master/Cloud%20Platforms)
--  [Container Orchestration](https://github.com/QuanBlue/tech-guidebook/tree/master/Container%20Orchestration)
--  [Containerization](https://github.com/QuanBlue/tech-guidebook/tree/master/Containerization)
--  [Infrastructure as Code (IaC)](<https://github.com/QuanBlue/tech-guidebook/tree/master/Infrastructure%20as%20Code%20(IaC)>)
--  [Shell Scripting](https://github.com/QuanBlue/tech-guidebook/tree/master/Shell%20Scripting)
--  [Version Control](https://github.com/QuanBlue/tech-guidebook/tree/master/Version%20Control)
+Explore repository to discover guides and resources for a technology:
 
-Each category folder contains cheat sheets related to that specific topic. Feel free to explore the folders and access the cheat sheets you need.
+1. [**Multiboot USB**](./Multiboot_USB/): How to create Multiboot USB using Ventoy
 
 # :busts_in_silhouette: Contributors
 
@@ -69,11 +63,11 @@ Each category folder contains cheat sheets related to that specific topic. Feel 
   <img src="https://contrib.rocks/image?repo=QuanBlue/tech-guidebook" />
 </a>
 
-Contributions to this repository are always welcome! If you have any cheat sheets that you would.
+Feel free to contribute to our projects, share your insights, or collaborate with fellow automation enthusiasts.
 
 # :scroll: License
 
-Distributed under the MIT License. See <a href="https://github.com/QuanBlue/tech-guidebook/blob/master/LICENSE">`LICENSE`</a> for more information.
+Distributed under the MIT License. See <a href="../LICENSE">`LICENSE`</a> for more information.
 
 ---
 
