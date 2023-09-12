@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/logo/tech-guidebook-logo.png" alt="icon" width="200"></img>
+  <img src="./assets/tech-guidebook-logo.png" alt="icon" width="200"></img>
   <br>
   <b>Technology Guidebook</b>
 </h1>
